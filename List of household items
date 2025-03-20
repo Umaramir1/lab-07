@@ -12,7 +12,8 @@ class Program
             "Lamp",
             "Refrigerator",
             "Television"
-            "bed"
+2nd-branch
+ main
         };
 
         foreach (var item in householdItems)
